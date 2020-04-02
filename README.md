@@ -23,8 +23,8 @@ Das Repository basiert grundlegend auf den veröffentlichten Informationen und C
 
 **Weitere Informationen:**
 
-[Repository von Seeed Studio](https://github.com/Seeed-Studio/Grove_I2C_Color_Sensor)
+[Repository von Seeed Studio](https://github.com/Seeed-Studio/Grove)
 
-[Offizielles Wiki von Seeed Studio](http://wiki.seeedstudio.com/Grove-I2C_Color_Sensor/)
+[Offizielles Wiki von Seeed Studio](http://wiki.seeedstudio.com/Grove-Loudness_Sensor/)
 
-[Materialkoffer von *Make Your School*](https://www.makeyourschool.de/material/farbsensor/)
+[Materialkoffer von *Make Your School*](https://www.makeyourschool.de/material/lautstaerkesensor/)
